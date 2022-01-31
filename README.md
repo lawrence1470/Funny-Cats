@@ -1,3 +1,12 @@
+# Link to the live version of app : [click here](https://funny-cats-5ru5hgurl-lawrence14701.vercel.app/)
+
+## description 
+
+### I love cats so I hope you do too. In this app I wanted to test out the react-async lib, which makes making fetch calls really easy in a react app. 
+
+
+
+
 # cra-template-tailwindcss-typescript
 
 A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
